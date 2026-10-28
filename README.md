@@ -56,7 +56,7 @@ A production-grade, enterprise **React 19 + Vite 8 + TypeScript 7** Admin Contro
 
 The panel is seeded with the following accounts:
 
-- **Admin (Authorized)**: `admin@toys-store.com` / `password` (Full permissions)
+- **Admin (Authorized)**: `` / `` (Full permissions)
 - **Regular User (Unauthorized)**: `customer@example.com` / `password` (Demonstrates immediate block & rejection)
 
 ---
